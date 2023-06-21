@@ -1,0 +1,3 @@
+tahap awal
+*membauat navbar
+*menggunakan html dan css terlebih dahulu
